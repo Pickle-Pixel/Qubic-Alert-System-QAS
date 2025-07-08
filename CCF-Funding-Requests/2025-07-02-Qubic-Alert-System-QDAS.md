@@ -66,7 +66,8 @@ Below are real screenshots from the current version of QAS, showing the user exp
 
 ### 🖥️ Console Output (Transaction Polling Logs)
 
-![Console Logs](https://github.com/user-attachments/assets/fdef6d29-09fb-4a18-ab82-fb0c93865480)
+![Console Logs](https://github.com/user-attachments/assets/bc0d39cc-9450-4c90-a0b1-a01455d765c9)
+
 ## Technical Overview
 
 QAS pulls and decodes raw transaction data directly from QXExplorer’s backend API layer. It compares wallet balance states and flags any positive changes. A custom parser filters false positives and inconsistencies. Notifications are sent through a secure email delivery system with configurable intervals, error handling, and built-in rate limiting. The system is lightweight, efficient, and designed to scale.
