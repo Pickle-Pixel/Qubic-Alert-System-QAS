@@ -45,19 +45,22 @@ Below are real screenshots from the current version of QAS, showing the user exp
 
 ### 📥 Sign-Up Page (User enters Wallet + Email)
 
-![Sign-Up UI](https://github.com/user-attachments/assets/b5476f2a-bed3-4bb9-bc38-ba02f4435e13)
+![Sign-Up UI](https://github.com/user-attachments/assets/1b14cfde-e094-48ae-9c4e-bb7c6c375edb)
+
 
 ---
 
 ### 📧 Subscription Confirmation Email
 
-![Subscription Confirmation](https://github.com/user-attachments/assets/1c04dc84-be7d-4a06-b881-8f54a89a18ce)
+![Subscription Confirmation](https://github.com/user-attachments/assets/475bbb0c-fb14-4f56-a717-a87fc7431666)
+
 
 ---
 
 ### 💸 Deposit Alert Email Example
 
-![Deposit Alert Email](https://github.com/user-attachments/assets/4818cea2-b85e-42d9-8843-d63a71aac3ec)
+![Deposit Alert Email](https://github.com/user-attachments/assets/afe60583-3ec4-4ce3-a1a2-5c867709a5c4)
+
 
 ---
 
