@@ -1,5 +1,5 @@
 # Proposal: Qubic Alert System (QAS)  
-**Request:** 31.9 Billion QUBIC priced at ~1,320 USDT per Billion  
+**Request:** 18.6 Billion QUBIC priced at ~1,320 USDT per Billion  
 **Receiving Wallet:** `MODMHIDMLHWBGHKQZYDIRMICOVRAAXCLXWJVEMTSQDIFAIEZKLBQXIGDNZJN`  
 **Submitted by:** PicklePixel  
 **Date:** 07/02/2025  
