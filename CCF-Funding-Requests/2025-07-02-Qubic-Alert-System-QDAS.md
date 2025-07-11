@@ -4,6 +4,9 @@
 **Submitted by:** PicklePixel  
 **Date:** 07/02/2025  
 
+> 🟢 **The MVP is already functional and can be rolled out within 1 week of funding.**    
+> Your vote helps bring immediate utility to the Qubic ecosystem.  
+
 ## Decision  
 > _Option 1: Yes, approve funding._  
 > _Option 0: No, I don't want._
